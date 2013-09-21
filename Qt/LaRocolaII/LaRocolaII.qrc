@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainPage.qml</file>
+        <file>Screen.jpg</file>
+        <file>ListText.qml</file>
+        <file>udpclient.cpp</file>
+        <file>udpclient.h</file>
+    </qresource>
+</RCC>
